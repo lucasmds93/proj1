@@ -1,0 +1,10 @@
+cd docs
+
+Git init - Trasformar o repositorio em git 
+git status - Ver as status
+git add . - adicionar a caixa toda a pasta
+git add "arquivo.olo" - adicionar o arquivo 
+git comit -m "nome da alteração " - Lacra a caixa com os add anterior 
+git push - enviar 
+git pull - atualizar direto do site 
+git remote add 
